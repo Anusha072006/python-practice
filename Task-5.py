@@ -36,3 +36,5 @@ print(str.endswith('a'))
 #Count how many times a character appears in a string.
 print(str.count('i'))
 
+
+
